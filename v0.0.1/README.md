@@ -1,9 +1,9 @@
-search.py: 30/11/2022
-database: 25/09/2022
+search.py: 30/11/2022  
+database: 25/09/2022  
 
-Torrents: 58,458,186
-Files: 845,779,642
-Most recent torrent: 25/09/2022
+Torrents: 58,458,186  
+Files: 845,779,642  
+Most recent torrent: 25/09/2022  
 
 Sources:
 - Own DHT scraper
