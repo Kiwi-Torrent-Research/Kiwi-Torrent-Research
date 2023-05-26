@@ -1,15 +1,12 @@
 kiwi torrent research  
 uncensored bittorrent data set
 
-30/04/2023  
-75.1 GiB  
-61,536,875 torrents  
-710,030,949 files
+24/05/2023  
+75.9 GiB  
+61,807,957 torrents  
+718,410,792 files
 
-1. [download (torrent)](https://github.com/Kiwi-Torrent-Research/Kiwi-Torrent-Research/raw/main/Kiwi_Torrent_Research_sqlite_30_04_2023.torrent)
-2. extract
-3. run example.py
-
+[download (torrent, 27.8 GiB)](https://github.com/Kiwi-Torrent-Research/Kiwi-Torrent-Research/raw/main/Kiwi_Torrent_Research_sqlite_24_05_2023.torrent)
 
 sqlite database:
 | table | fields | indexed fields |
