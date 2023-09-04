@@ -20,4 +20,5 @@ historic sources:
 | BTDB | https://web.archive.org/web/20211015000000*/https://btdb.eu/api/fulldump2.txt.gz |
 | RuTracker | https://archive.org/details/rutracker-torrents-20150927 |
 
-See https://github.com/boramalper/magnetico/issues/218 for Magnetico dumps  
+See https://github.com/boramalper/magnetico/issues/218 for Magnetico dumps.  
+https://antipoul.fr/dhtd/ dumps 19-Mar-2022 & 19-May-2023 have been excluded due to errors.
